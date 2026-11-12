@@ -51,31 +51,6 @@
   <img src="https://img.shields.io/badge/Tauri-ffe4e8?style=flat-square&logo=tauri&logoColor=713b40" />
 </p>
 
-## ♡ Featured Projects
-
-<p align="center">
-  <i>Some projects I'm working on and exploring.</i>
-</p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌸 My Repositories</h3>
-      <p>Explore my open source projects and experiments.</p>
-      <a href="https://github.com/BlueSkyCoffee?tab=repositories">
-        Explore Repositories →
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🎀 My GitHub</h3>
-      <p>Discover my latest development activities.</p>
-      <a href="https://github.com/BlueSkyCoffee">
-        Visit My Profile →
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">
