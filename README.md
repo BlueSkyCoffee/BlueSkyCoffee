@@ -38,29 +38,6 @@
   and turning little ideas into reality.
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌸</h3>
-      <b>Focus</b>
-      <br />
-      <sub>AI & Desktop Apps</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎀</h3>
-      <b>Development</b>
-      <br />
-      <sub>Rust & TypeScript</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>♡</h3>
-      <b>Interests</b>
-      <br />
-      <sub>Anime & Open Source</sub>
-    </td>
-  </tr>
-</table>
-
 ## ♡ Tech Stack
 
 <p align="center">
@@ -98,31 +75,6 @@
     </td>
   </tr>
 </table>
-
-## ♡ GitHub Statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=BlueSkyCoffee&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github"
-    alt="Hoshino Runa GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyCoffee&layout=compact&theme=rose_pine&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-## ♡ Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BlueSkyCoffee&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Activity"
-  />
-</p>
 
 ---
 
