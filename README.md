@@ -1,19 +1,19 @@
- <!-- ============================== -->
-<!--       FUJIMIYA RIRI PROFILE       -->
-<!-- ============================== -->
+ <!-- ====================================== -->
+<!--          HOSHINO RUNA PROFILE           -->
+<!-- ====================================== -->
 
 <p align="center">
   <img
     src="assets/github-profile-banner.png"
     width="100%"
-    alt="Fujimiya Riri"
+    alt="Hoshino Runa Profile Banner"
   />
 </p>
 
-<h1 align="center">こんにちは！藤宮 りりです ♡</h1>
+<h1 align="center">こんにちは！星野 ルナです ♡</h1>
 
 <p align="center">
-  <i>A little world of code, creativity and dreams.</i>
+  <i>Welcome to Luna's little corner of GitHub!</i>
 </p>
 
 <p align="center">
@@ -26,28 +26,40 @@
 
 ## ♡ About Me
 
-```yaml
-name: Fujimiya Riri
-nickname: りり
-role: Indie Developer
+<p align="center">
+  <b>星野 ルナ · Hoshino Runa</b>
+  <br />
+  <sub>Indie Developer · Open Source Enthusiast</sub>
+</p>
 
-focus:
-  - Desktop Applications
-  - AI & Agent Development
-  - Open Source Projects
-  - Web Development
+<p align="center">
+  Creating useful things with code, exploring new technologies,
+  <br />
+  and turning little ideas into reality.
+</p>
 
-tech:
-  - Rust
-  - TypeScript
-  - React
-  - Tauri
-
-interests:
-  - Anime & Visual Novels
-  - Creative Coding
-  - Open Source
-```
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌸</h3>
+      <b>Focus</b>
+      <br />
+      <sub>AI & Desktop Apps</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎀</h3>
+      <b>Development</b>
+      <br />
+      <sub>Rust & TypeScript</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>♡</h3>
+      <b>Interests</b>
+      <br />
+      <sub>Anime & Open Source</sub>
+    </td>
+  </tr>
+</table>
 
 ## ♡ Tech Stack
 
@@ -55,34 +67,49 @@ interests:
   <img src="https://skillicons.dev/icons?i=rust,tauri,react,ts,js,vite,nodejs,python,git,github,vscode&theme=light" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-ffc6c7?style=flat-square&logo=rust&logoColor=713b40" />
+  <img src="https://img.shields.io/badge/TypeScript-fadadd?style=flat-square&logo=typescript&logoColor=713b40" />
+  <img src="https://img.shields.io/badge/React-fce4ec?style=flat-square&logo=react&logoColor=713b40" />
+  <img src="https://img.shields.io/badge/Tauri-ffe4e8?style=flat-square&logo=tauri&logoColor=713b40" />
+</p>
+
 ## ♡ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_ONE&theme=rose_pine&hide_border=true"
-      alt="Project One"
-    />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_TWO&theme=rose_pine&hide_border=true"
-      alt="Project Two"
-    />
-  </a>
+  <i>Some projects I'm working on and exploring.</i>
 </p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌸 My Repositories</h3>
+      <p>Explore my open source projects and experiments.</p>
+      <a href="https://github.com/BlueSkyCoffee?tab=repositories">
+        Explore Repositories →
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎀 My GitHub</h3>
+      <p>Discover my latest development activities.</p>
+      <a href="https://github.com/BlueSkyCoffee">
+        Visit My Profile →
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ♡ GitHub Statistics
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=BlueSkyCoffee&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github"
+    alt="Hoshino Runa GitHub Statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyCoffee&layout=compact&theme=rose_pine&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -91,9 +118,9 @@ interests:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BlueSkyCoffee&theme=github-compact&hide_border=true&area=true"
     width="100%"
-    alt="Contribution Graph"
+    alt="Contribution Activity"
   />
 </p>
 
@@ -104,9 +131,13 @@ interests:
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ♡
+  Every little step leads to a beautiful future.
 </p>
 
 <p align="center">
-  <sub>Made with love by Fujimiya Riri 🌸</sub>
+  <sub>Made with ♡ by Hoshino Runa</sub>
+</p>
+
+<p align="center">
+  🌸 Thank you for visiting! 🌸
 </p>
